@@ -11,7 +11,7 @@ You'll notice that my privacy policies tend to lack "professionalism". That's ju
 
 **I do not share any data with third parties under any circumstances**.
 
-**I keep logs of every calendar generated through Sparkling H2O2: Timetable Tools**. This data is used solely for keeping track of errors and anomalies that may occur while generating timetables, in order to improve the functionality and performance of the extension. **All data is stored securely and is never shared with any third parties**.
+**I keep logs of every calendar generated through Sparkling H2O2: Timetable Tools**. This data is used solely for keeping track of errors and anomalies that may occur while generating timetables, in order to improve the functionality and performance of the extension.
 
 
 ## Chrome Storage API
