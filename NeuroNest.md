@@ -22,5 +22,3 @@ NeuroNest takes advantage of [Google Chrome's Storage API](https://developers.ch
 ## Feedback
 
 If you have questions or concerns about this privacy policy, feel free to [send me an email](mailto:derek.yu869@gmail.com) or [file an issue](https://github.com/DerekY2/ext-privacy-policies/issues/new) to this repository.
-
-***
